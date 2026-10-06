@@ -1,0 +1,15 @@
+ollama
+streamlit>=1.40, <2
+pandas>=2.2, <3
+numpy>=1.26,<3
+scikit-learn>=1.5, <2
+requests>=2.32, <3
+python-dotenv>=1.0, <2
+sentence-transformers>=3, <6
+chromadb>=0.5, <2
+pypdf>=5, <7
+transformers>=4.45, <6
+torch>=2.4, <3
+google-genai>=1.0, <2
+langchain>=0.3, <2
+langchain-community>=0.3, <1
